@@ -1,4 +1,4 @@
-# These dumps are a free medical Billing platform , that is currently underdevelopment. 
+# These dumps are a for a free medical Billing platform , that is currently underdevelopment. 
 A Sql Dump of the new ICD10 2021 codes form the cms.gov website, I may build and api later
 ICD10 2021 is a free reference for the fast lookup of all current American ICD-10-CM (diagnosis) medical billing codes.
 
